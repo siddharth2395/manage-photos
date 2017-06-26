@@ -4,11 +4,11 @@ what was the purpose of Manage-Photos?
 
     The basic purpose of Manage-Photos was to organize my photos which were organized in folder stucture. 
     My objective was to get all the photos in one folder. Well now you think that why would i write a script
-    to do that? The answer is simple I'm lezy and there were 300+ folders and 40k pics and i wanted to upload
+    to do that? The answer is simple I'm lazy and there were 300+ folders and 40k pics and i wanted to upload
     all of those photos to Google Photos. It seems simple but the problem was that i had multiple backups of 
     those photos there were redundant files everywhere. But I wanted to choose which one should be kept to upload.
     There were possibilities that two diffrent photos can have same name as old cameras were reset their numbers 
-    after flashing memmories.
+    after flashing memories.
 
 So I wanted to do two things
 
