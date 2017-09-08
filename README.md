@@ -27,11 +27,11 @@ How to use?
   
   To move all photos in one folder
       
-      $python get_all_photos_out.py source_folder_name destination_folder_name
+      $ python get_all_photos_out.py source_folder_name destination_folder_name
       
-          e.g.  python get_all_photos_out.py myphotos all_photos
+          e.g.  $ python get_all_photos_out.py myphotos all_photos
   To filter out duplicate photos and move them into another folder
       
-      $python get_all_dups.py folder_with_all_photos duplicate_collection_name
+      $ python get_all_dups.py folder_with_all_photos duplicate_collection_name
           
-          e.g python get_all_dups.py all_photos dups
+          e.g $ python get_all_dups.py all_photos dups
